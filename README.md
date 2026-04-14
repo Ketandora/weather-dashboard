@@ -5,6 +5,9 @@ A responsive weather dashboard made using React and Open weather API.
 This project shows live weather details of searched city with background changes according to weather condition. It also includes dark/light mode and temperature unit toggle for better user experience.
 
 ---
+## Live Demo
+
+🔗 [View Live Project](https://weather-dashboard-hazel-nine.vercel.app)
 
 ## Features
 
